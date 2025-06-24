@@ -85,9 +85,3 @@ pip install -r requirements.txt
 ```
 (Optional: create requirements.txt listing tensorflow, numpy, opencv-python, pandas, matplotlib, scikit-learn, spacy, etc.)
 
-🚀 Planned Extensions
-Flask web interface to test digit recognition in-browser.
-
-Add live drawing canvas for MNIST digit input.
-
-Add user bias evaluation for text sentiment classification.
